@@ -77,7 +77,7 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏ Flow Chart <a name = "flowchart"></a>
 
-![bg width:1000px](./swagindiaflowchart.png)
+![bg width:1000px](./flowchart.png)
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
