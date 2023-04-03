@@ -30,7 +30,7 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 Abstract <a name = "about">Abstract</a>
+## 🧐 Abstract <a name = "Abstract"></a>
 The aim is to automate its existing manual system with the help of computerized equipment and full-fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer period with easy access and manipulation the same. Basically,the project describes how to manage for good performance and better services for the clients.
 
 ## Introduction
