@@ -19,7 +19,8 @@
 </p>
 
 ## 📝 Table of Contents
-- [About](#about)
+- [Abstract](#Abstract)
+- [Introduction](#Introduction)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
@@ -30,7 +31,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-The electricity billing system has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardship faced by this existing system. Moreover, this system is designed for the particular need of the company to carry out operations in a smooth and effective manner. The application is reduced as much as possible to avoid errors while entering the data it also provides error messages while entering invalid data. No formal knowledge is needed for the user to use this system. Thus by this, it proves it is a user-friendly electricity billing system, as described above, can lead to an error-free, secure, reliable and fast management system. It can assist the user to concentrate on their other activities instead concentrate on record-keeping thus it will help organizations in better utilization of resources. Every organization, whether big or small has challenges to overcome and manage the information of unit energy, electricity, store record, connection, electricity board, and every electricity billing system
+
 
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
