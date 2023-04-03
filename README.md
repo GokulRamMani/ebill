@@ -83,6 +83,6 @@ Add additional notes about how to deploy this on a live system.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Inspiration
-  James Gosling
+James Gosling
 - References
-  Tutus Funny 
+Tutus Funny 
