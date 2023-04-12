@@ -41,13 +41,16 @@ Thus by this, it proves it is a user-friendly electricity billing system, as des
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### Prerequisites
-1. NetBeans Installation
-2. 
-
-
-
 ### Installing
+
+1. NetBeans Installation
+2. Create a project file in beans
+3. Drag and Drop GUIs
+4. Button Configuration
+
+NetBeans Installation
+
+NetBeans IDE is a free open - Source, Cross - plte from integrated Decelopment Environment with built-in support the JAVA programming language. it can run any machine which consists of the jva virtual machine. it consists of many features for application development as follows:
 
 
 
