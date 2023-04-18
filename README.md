@@ -4,14 +4,8 @@ Electricity Bill means the invoice sent every month to customers or consumers st
 using java swing in NetBeans IDE.
 # project-documentation
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="****"></a>
-</p>
-
 
 <h3 align="center">EBILL</h3>
-
 
 
 ---
@@ -41,7 +35,9 @@ The electricity billing system has been developed to override the problems preva
 Thus by this, it proves it is a user-friendly electricity billing system, as described above, can lead to an error-free, secure, reliable and fast management system. It can assist the user to concentrate on their other activities instead concentrate on record-keeping thus it will help organizations in better utilization of resources. Every organization, whether big or small has challenges to overcome and manage the information of unit energy, electricity, store record, connection, electricity board, and every electricity billing system.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you to develop the Electricity Billing System project in java using (GUI) Graphical User Interface, Java Swing and Java awt.
+
+Steps to Develop a EBS usng Java GUI
 
 ### Installing
 
@@ -53,8 +49,42 @@ These instructions will get you a copy of the project up and running on your loc
 NetBeans Installation
 
 NetBeans IDE is a free open - Source, Cross - plte from integrated Decelopment Environment with built-in support the JAVA programming language. it can run any machine which consists of the jva virtual machine. it consists of many features for application development as follows:
+•Drag & Drop Graphical User Interface (GUI) Creation.
 
+•Excellent editing (advanced source code editor)
 
+•Web-service
+
+•Excellent debugging
+
+•Wizards, code generation and management tools, and many more.
+
+Step 1: You need to have a setup file of the NetBeans JAVA into your setup.
+
+Step 2: If you didn’t have the setup you can download from the following link:
+
+https://netbeans.org/images_www/v6/download/community/8.2
+step 3: You can download any type of setup as per your requirements from the above mentionwebpage.
+
+Step 4. Right-click on the setup or you can Double-Click on the setup by using the mouse.
+
+Step 5.Click on the next option
+
+Create a Project File in beans
+Launch the NetBeans IDE
+
+1.In the NetBeans IDE,
+Click
+
+File--New Project--Java--Java Application.
+
+2.After creating the project go to the source package richt click new and select the JFrame
+Example:
+
+Source Package--New--JFrame
+
+3.In the Name and Location page of the wizard, do the following
+4.Click Finish
 
 
 
