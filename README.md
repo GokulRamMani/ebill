@@ -10,7 +10,7 @@ using java swing in NetBeans IDE.
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">  Easiest way pay your EB bill.
     <br> 
 </p>
 
@@ -64,6 +64,7 @@ Step 1: You need to have a setup file of the NetBeans JAVA into your setup.
 Step 2: If you didn’t have the setup you can download from the following link:
 
 https://netbeans.org/images_www/v6/download/community/8.2
+
 step 3: You can download any type of setup as per your requirements from the above mentionwebpage.
 
 Step 4. Right-click on the setup or you can Double-Click on the setup by using the mouse.
@@ -105,13 +106,8 @@ Add notes about how to use the system.
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏ Flow Chart <a name = "flowchart"></a>
+![Screenshot 2023-04-01 224431](https://user-images.githubusercontent.com/127830926/232712018-223a419d-f21f-4ba8-94f9-37ab3232f2f7.png)
 
-![bg width:1000px](./flowchart.png)
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍ Authors <a name = "authors"></a>
 - [@Gokulram](https://github.com/GokulRamMani) - FSD
