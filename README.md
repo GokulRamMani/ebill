@@ -10,7 +10,7 @@ using java swing in NetBeans IDE.
 
 ---
 
-<p align="center">  Easiest way pay your EB bill.
+<p align="center">  Easiest way to pay your EB bill.
     <br> 
 </p>
 
@@ -18,11 +18,9 @@ using java swing in NetBeans IDE.
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
 - [Getting Started](#getting_started)
+- [Electricty Billing System Usage](#electricty_billingsystem_usage)
 - [Deployment](#deployment)
-- [Usage](#usage)
 - [Flow Chart](#flowchart)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -85,6 +83,7 @@ Example:
 Source Package--New--JFrame
 
 3.In the Name and Location page of the wizard, do the following
+
 4.Click Finish
 
 
@@ -97,13 +96,20 @@ Explain what these tests test and why
 
 
 Give an example
+## Electricty Billing System Usage <a name = "electricty_billingsystem_usage"></a>
+It has three major features.
 
+1.Text field:- In this project there are three main text field. In first one is Customer Id in which we have to fill Customer Id in second one is for Customer Name in this we have to fill customer Name and in the third one is for Unit which is consumed by the customer
 
-## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+2.Cal Button:- Cal Button calculate the gross amount of the unit which consumed by the customer and using lava code it calculate the total bill amount. In this project for different- different unit range there is different rate of charge according to our given data
 
-## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+3.Print Button:- In print button it print the all detailed which was shown by the cal button like Customer Id, Customer Name Unit, and Amount etc
+
+## Deployment <a name = "deployment"></a>
+
+First Run the file next we get a GUI for calculate the bills and print.
+![Screenshot 2023-03-22 171222](https://user-images.githubusercontent.com/127830926/232712556-aab1f0dc-5d13-487c-89a6-c5781e8046b7.png)
+
 
 ## ⛏ Flow Chart <a name = "flowchart"></a>
 ![Screenshot 2023-04-01 224431](https://user-images.githubusercontent.com/127830926/232712018-223a419d-f21f-4ba8-94f9-37ab3232f2f7.png)
