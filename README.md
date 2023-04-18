@@ -18,6 +18,7 @@ using java swing in NetBeans IDE.
 - [Abstract](#Abstract)
 - [Introduction](#Introduction)
 - [Getting Started](#getting_started)
+- [Running the file](#file)
 - [Electricty Billing System Usage](#electricty_billingsystem_usage)
 - [Deployment](#deployment)
 - [Flow Chart](#flowchart)
@@ -86,10 +87,31 @@ Source Package--New--JFrame
 
 4.Click Finish
 
+DRAG and DROP GUI'S
+
+![229305229-238bcf84-bbeb-430e-9691-604ef49268fd](https://user-images.githubusercontent.com/127830926/232715317-4656a33a-5445-4280-8d3d-1f9ca23fbc2c.png)
+
+![229305251-3a5d95ec-f4ac-427a-a11c-b9b1e7994660](https://user-images.githubusercontent.com/127830926/232715406-0c7e8c5e-3db5-45d5-8c7a-39182412dd24.png)
+
+ File/Folder. In the New File wizard, under Categories, select NetBeans Module Development. Under File Types, select Window Component. Click Next.
 
 
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
+
+
+## Running the file <a name = "file"></a>
+After completing the project select the file right click it and choose Run.
+
+After that the application will open we can do bill calculationg parts in the new opened window.
+
+we can able to print the bill as three formats
+
+1.Fax
+
+2.word document
+
+3.PDF file.
+
+Its better we choose the file as in PDF format.
 
 ### Break down into end to end tests
 Explain what these tests test and why
